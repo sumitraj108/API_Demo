@@ -16,5 +16,9 @@ public enum API_Resources {
 		return resource;
 	} 
 	
+	public static void gitcheck() {
+		System.out.println("hi i m going to check the git code ");
+	}
+	
 
 }
